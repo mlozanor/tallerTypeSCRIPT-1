@@ -4,7 +4,7 @@ body {
   }
   
   header {
-    background-color: blue;
+    background-color: #D7E5F5;
     padding: 20px;
     text-align: center;
   }
@@ -26,11 +26,11 @@ body {
   }
   
   tbody tr:nth-child(even) {
-    background-color: white;
+    background-color: #e2e2e2;
   }
   
   tbody tr:nth-child(odd) {
-    background-color: lightgrey;
+    background-color: #95bbde;
   }
 
   

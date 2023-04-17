@@ -1,4 +1,4 @@
-// Clase Serie con los atributos id, name, channel y seasons
+// Clase Serie con los atributos id, name, channel, seasons, description, url y imageUrl
 class Serie {
     id: number;
     name: string;
@@ -19,7 +19,7 @@ class Serie {
     }
   }
   
-  // Array de datos de las series
+  // Array de datos de las series para la creacion de la tabla
   const series: Serie[] = [
     new Serie(
         1,
